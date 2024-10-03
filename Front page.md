@@ -6,6 +6,15 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 
 ---
 
+## Navigation 
+
+[About Me](#-about-me)
+[Qualifications](#-qualifications)
+[Completed Projects](#-completed-projects)
+[Future Projects](#️-cyber-security-projects-on-proxmox)
+[Career Goals](#-future-goals)
+[Contact](#-lets-connect)
+
 ## 🔐 About Me
 
 - **Role:** Cyber Defense Analyst 
@@ -19,11 +28,12 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 ---
 
 ## 🎓 Qualifications
-•	Bachelor of Information Technology (Cyber Security & Digital Forensics) | Murdoch University
-•	Microsoft SC-200 Security Operations Analyst Associate
-•	Diploma of Engineering – Advanced Trade | Royal Australian Navy
-•	Certificate IV in Project Management Practice | Open Colleges
-•	Cyber Security Analyst Certificate | With You With Me
+
+- **Bachelor of Information Technology (Cyber Security & Digital Forensics) | Murdoch University**
+- **Microsoft SC-200 Security Operations Analyst Associate**
+- **Diploma of Engineering – Advanced Trade | Royal Australian Navy**
+- **Certificate IV in Project Management Practice | Open Colleges**
+- **Cyber Security Analyst Certificate | With You With Me**
 
   
 ---
@@ -53,22 +63,141 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 
 ## 📁 Completed Projects
 
-### 1. **Constucted home network**
+### 1. **Constructed Home Network**
    - **Overview:** 
-   - 
-   - [View Project](./Home%20Network.md)
+     I designed and implemented a secure and efficient home network, integrating both wired and wireless components. The network is configured to optimize performance and security for various connected devices, including smart home IoT devices, a NAS for storage, and a Proxmox server for virtualization.
+   
+   - **Key Components:**
+     - **Router:** ASUS RT-AC88U – Acts as the main gateway and firewall for the network.
+     - **Switch:** TP-Link TL-SG108E – Provides wired connectivity for critical devices.
+     - **NAS:** Synology DS220+ – Used for centralized data storage and backup.
+     - **Access Point:** Ubiquiti UAP-AC-LR – Extends wireless coverage throughout the home.
+     - **Proxmox Server:** Intel NUC – Hosts multiple virtual machines for different network services.
+   
+   - **Security Features:**
+     - Implemented **VLANs** to segregate network traffic between different device categories (e.g., IoT, NAS, workstations).
+     - Enabled **WPA3 encryption** for wireless security.
+     - Configured **port forwarding** for external access to the NAS, with **dynamic DNS** for seamless connectivity.
+   
+   - [View Detailed Project](./Home%20Network.md)
 
-### 2. **Built proxmox server **
-   - **Overview:** 
-   - 
-   - [View Project](./Proxmox.md)
+---
 
-### 3. **Installed and Configuered pfSense Open Source Firewall**
-   - **Overview:** Analyzed security vulnerabilities in IoT devices and created mitigation strategies.
-  
-   - [View Project](./pfSense.md)
+### 2. **Built Proxmox Server**
+   - **Overview:**
+     Set up a **Proxmox Virtual Environment** to run multiple virtual machines (VMs) for different purposes, such as security testing, hosting services, and learning about virtualization technologies. The Proxmox server allows efficient use of hardware resources while maintaining flexibility for future network expansion.
+   
+   - **Virtual Machines Hosted:**
+     - **pfSense Firewall:** Provides routing and firewall services for the home network.
+     - **Kali Linux:** Used for penetration testing and security research.
+     - **Ubuntu Server:** Hosts internal websites and acts as a DNS resolver.
+     - **Windows Server 2019:** Used for testing Windows environments and simulating a domain controller.
+   
+   - **Features:**
+     - **Snapshots** for VMs to quickly restore environments.
+     - Efficient resource management with **dynamic memory allocation**.
+     - Centralized control and monitoring via the Proxmox web interface.
+   
+   - [View Detailed Project](./Proxmox.md)
+
+---
+
+### 3. **Installed and Configured pfSense Open Source Firewall**
+   - **Overview:**
+     Installed and configured a **pfSense firewall** to secure the home network and control traffic between different network segments. This open-source firewall provides a range of advanced security features, such as VPN access, intrusion detection, and traffic shaping.
+   
+   - **Key Features:**
+     - **Firewall Rules:** Custom firewall rules were created to block unnecessary incoming traffic and allow safe internal communication.
+     - **VPN Setup:** Configured **OpenVPN** to allow secure remote access to the home network.
+     - **Traffic Shaping:** Optimized bandwidth allocation to prioritize high-demand applications like streaming and gaming.
+     - **Intrusion Detection/Prevention:** Set up **Snort** for real-time traffic analysis and intrusion detection.
+     - **Dynamic DNS:** Implemented **Dynamic DNS** to maintain consistent external access to services even with changing IP addresses.
+   
+   - **Security Measures:**
+     - Blocked access to known malicious IP addresses.
+     - Encrypted all DNS traffic using DNS over TLS.
+     - Implemented **failover mechanisms** for dual-WAN connectivity to ensure uptime.
+
+   - [View Detailed Project](./pfSense.md)
 
 
+---
+
+## 🛡️ Cyber Security Projects on Proxmox
+
+## 1. Security Incident Investigation and Response
+
+This project involves creating a virtual environment to simulate and respond to various cyber security incidents.
+
+### Overview
+- **Objective:** Simulate a security incident and perform root cause analysis using a combination of VMs for the attacker, victim, and monitoring systems.
+- **Tools:** Microsoft Sentinel, Splunk, Kali Linux.
+- **VMs:**
+  - **Kali Linux VM** (Attacker)
+  - **Windows Server VM** (Victim)
+  - **Splunk/Defender VM** (SIEM)
+
+### Key Activities
+- Simulate attacks using Kali Linux.
+- Investigate incidents in Splunk/Microsoft Sentinel.
+- Perform root cause analysis and generate a report.
+
+---
+
+## 2. Scheduled Vulnerability Scans and Compliance Testing
+
+This project demonstrates how to perform vulnerability scans and compliance checks using tools like **Nessus** and **OpenVAS**.
+
+### Overview
+- **Objective:** Perform vulnerability scans on various VMs and ensure compliance with security standards.
+- **Tools:** Nessus, OpenVAS, Nmap.
+- **VMs:**
+  - **Windows Server 2019** (Scan Target)
+  - **Ubuntu Server** (Scan Target)
+  - **Kali Linux** (Scan VM with Nessus/OpenVAS)
+
+### Key Activities
+- Set up Nessus on Kali Linux VM.
+- Perform scheduled scans on other VMs.
+- Generate vulnerability and compliance reports.
+
+---
+
+## 3. Penetration Testing
+
+A project to test network security using **Kali Linux** for penetration testing in an isolated environment.
+
+### Overview
+- **Objective:** Conduct internal penetration testing to identify and exploit vulnerabilities within the virtual network.
+- **Tools:** Kali Linux, Burp Suite, Metasploit, Nmap.
+- **VMs:**
+  - **Kali Linux VM** (Penetration Testing)
+  - **Windows Server 2019** (Target)
+  - **Ubuntu Server** (Target)
+
+### Key Activities
+- Use **Metasploit** and **Nmap** to scan for vulnerabilities.
+- Attempt to exploit weaknesses in the network.
+- Document findings and provide mitigation strategies.
+
+---
+
+## 4. SIEM Deployment and Threat Intelligence Reporting
+
+This project focuses on deploying a **SIEM** solution to monitor and respond to security threats.
+
+### Overview
+- **Objective:** Implement a SIEM tool to monitor logs from different VMs and generate threat intelligence reports.
+- **Tools:** Splunk, Microsoft Sentinel.
+- **VMs:**
+  - **Splunk Server VM** (SIEM Tool)
+  - **Windows Server VM** (Log Source)
+  - **Ubuntu Server VM** (Log Source)
+
+### Key Activities
+- Deploy and configure Splunk on a dedicated VM.
+- Configure VMs to send logs to Splunk for analysis.
+- Analyze logs and create reports on detected threats.
 
 ---
 
