@@ -14,9 +14,14 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 2 years in Cyber Security
 14 years in Navy (Communications Technician) 
 - **Location:** Perth, Australia
-- **Certifications:** 
-  - SC-200 Microsoft Security Operations Analyst Associate
-  - Currently studying: Splunk Power User, CrowdStrike Responder, Network+
+- **Qualifications:** 
+•	Bachelor of Information Technology (Cyber Security & Digital Forensics) | Murdoch University
+•	Microsoft SC-200 Security Operations Analyst Associate
+•	Diploma of Engineering – Advanced Trade | Royal Australian Navy
+•	Certificate IV in Project Management Practice | Open Colleges
+•	Cyber Security Analyst Certificate | With You With Me
+
+  
 - **Passions:** IoT security, Operational Technology, Smart Automation
 
 ---
@@ -24,7 +29,7 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 ## 📜 Certifications
 
 - **Microsoft Certified: Security Operations Analyst Associate (SC-200)**
-- **Cisco Certified Network Associate (CCNA)** (In progress)
+- **ITIL 4 Foundation** (In progress)
 - **Splunk Power User** (In progress)
 - **CrowdStrike Responder** (In progress)
 - **CompTIA Network+** (In progress)
@@ -44,27 +49,24 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 
 ---
 
-## 📁 Featured Projects
+## 📁 Completed Projects
 
-### 1. **Network Security Analysis Using Splunk**
-   - **Overview:** Implemented network security monitoring using Splunk to detect and analyze suspicious traffic.
-   - **Tools:** Splunk, Cisco Firewalls
-   - [View Project](#)
+### 1. **Constucted home network**
+   - **Overview:** 
+   - 
+   - [View Project](./Home%20Network.md)
 
-### 2. **Incident Response Playbook with Microsoft Sentinel**
-   - **Overview:** Developed and automated an incident response playbook for handling phishing attacks in a Microsoft Sentinel environment.
-   - **Tools:** Microsoft Sentinel, KQL
-   - [View Project](#)
+### 2. **Built proxmox server **
+   - **Overview:** 
+   - 
+   - [View Project](./Proxmox.md)
 
-### 3. **IoT Device Vulnerability Research**
+### 3. **Installed and Configuered pfSense Open Source Firewall**
    - **Overview:** Analyzed security vulnerabilities in IoT devices and created mitigation strategies.
-   - **Tools:** Python, Wireshark, Kali Linux
-   - [View Project](#)
+  
+   - [View Project](./pfSense.md)
 
-### 4. **USB Drive Forensics Investigation**
-   - **Overview:** Conducted a forensics investigation using Hex Workshop to recover hidden data from a USB drive.
-   - **Tools:** Hex Workshop, FTK Imager
-   - [View Project](#)
+
 
 ---
 
@@ -78,8 +80,8 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [https://www.linkedin.com/in/daniel-o-rourke-160b53ba/](#)
-- **GitHub:** (https://github.com/sailingtheoutback/Portfolio)(#)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/daniel-o-rourke-160b53ba/)
+- **GitHub:** [Git Hub](https://github.com/sailingtheoutback/Portfolio)
 - **Email:** [youremail@example.com](mailto:youremail@example.com)
 
 ---
