@@ -30,3 +30,6 @@ This project focuses on my Proxmox server setup, which is used to host multiple 
 ### Ubuntu Server
 - **Purpose:** Web server hosting internal websites and serving as a DNS resolver for the network.
 - **Services:** Apache, MySQL, Bind9 for DNS.
+
+
+[Return](./Front%20page.md)

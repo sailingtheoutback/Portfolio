@@ -14,7 +14,11 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 2 years in Cyber Security
 14 years in Navy (Communications Technician) 
 - **Location:** Perth, Australia
-- **Qualifications:** 
+- **Passions:** IoT security, Operational Technology, Smart Automation
+
+---
+
+## 🎓 Qualifications
 •	Bachelor of Information Technology (Cyber Security & Digital Forensics) | Murdoch University
 •	Microsoft SC-200 Security Operations Analyst Associate
 •	Diploma of Engineering – Advanced Trade | Royal Australian Navy
@@ -22,8 +26,6 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 •	Cyber Security Analyst Certificate | With You With Me
 
   
-- **Passions:** IoT security, Operational Technology, Smart Automation
-
 ---
 
 ## 📜 Certifications

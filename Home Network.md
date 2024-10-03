@@ -23,3 +23,5 @@ This project details my home network configuration, including the hardware used 
 | Proxmox Server      | 192.168.1.200      | XX:XX:XX:XX:XX:XX         | Virtual machine host       |
 
 ---
+
+[Return](./Front%20page.md)

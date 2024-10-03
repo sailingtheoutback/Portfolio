@@ -23,3 +23,5 @@ This project covers the configuration and setup of my **pfSense** firewall, whic
 - **Firewall Rules:** Configured to block inbound connections by default.
 - **Intrusion Detection:** Using Snort to monitor for suspicious activity.
 - **DNS Resolver:** Ensures DNS queries are encrypted using DNS over TLS (DoT).
+
+[Return](./Front%20page.md)
