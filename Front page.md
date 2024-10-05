@@ -14,6 +14,7 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 [Future Projects](#️-cyber-security-projects-on-proxmox)
 [Career Goals](#-future-goals)
 [Contact](#-lets-connect)
+[Achivements](#-achivements)
 
 ## 🔐 About Me
 
@@ -61,16 +62,20 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 
 ---
 
+## 🏆 Achivements 
+2016 & 2018 Winners Navy Engineering Challenge [videos](https://www.youtube.com/watch?v=RwswUrpT4JA)
+
+---
+
 ## 📁 Completed Projects
 
-### 1. **Constructed Home Network**
+### 1. **Constructed Home Lab**
    - **Overview:** 
      I designed and implemented a secure and efficient home network, integrating both wired and wireless components. The network is configured to optimize performance and security for various connected devices, including smart home IoT devices, a NAS for storage, and a Proxmox server for virtualization.
    
    - **Key Components:**
-     - **Router:** ASUS RT-AC88U – Acts as the main gateway and firewall for the network.
+     - **Firewall:** PfSence installed on Protectli vault – Acts as the main gateway and firewall for the network.
      - **Switch:** TP-Link TL-SG108E – Provides wired connectivity for critical devices.
-     - **NAS:** Synology DS220+ – Used for centralized data storage and backup.
      - **Access Point:** Ubiquiti UAP-AC-LR – Extends wireless coverage throughout the home.
      - **Proxmox Server:** Intel NUC – Hosts multiple virtual machines for different network services.
    

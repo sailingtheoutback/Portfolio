@@ -6,7 +6,6 @@ This project focuses on my Proxmox server setup, which is used to host multiple 
 
 | VM Name             | OS                 | Purpose                   | Resources Allocated        |
 |---------------------|--------------------|---------------------------|----------------------------|
-| pfSense Firewall     | pfSense            | Network firewall/router    | 2 CPU, 4GB RAM, 20GB Disk  |
 | Kali Linux           | Kali Linux         | Penetration testing lab    | 4 CPU, 8GB RAM, 50GB Disk  |
 | Windows Server 2019  | Windows Server 2019| Domain controller, testing | 4 CPU, 16GB RAM, 100GB Disk|
 | Ubuntu Server        | Ubuntu 22.04       | Web server & DNS resolver  | 2 CPU, 4GB RAM, 40GB Disk  |
@@ -14,10 +13,6 @@ This project focuses on my Proxmox server setup, which is used to host multiple 
 ---
 
 ## 📋 VM Details
-
-### pfSense Firewall
-- **Purpose:** Provides firewall and routing capabilities for the home network.
-- **Configuration:** Utilizes WAN and LAN interfaces, configured for NAT and DHCP.
 
 ### Kali Linux
 - **Purpose:** Penetration testing environment for practicing ethical hacking skills.
