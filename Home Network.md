@@ -29,4 +29,4 @@ This project details my home network configuration, including the hardware used 
 
 ---
 
-[Return](./Front%20page.md)
+[Return](./README.md)
