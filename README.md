@@ -15,6 +15,8 @@ Hello, I'm Daniel O'Rourke, a **Cyber Security Analyst** with over two years of 
 [Career Goals](#-future-goals)
 [Contact](#-lets-connect)
 [Achivements](#-achivements)
+[Volunteering Activity](#-Volunteering-Activity)
+
 
 ## 🔐 About Me
 
@@ -208,9 +210,20 @@ This project focuses on deploying a **SIEM** solution to monitor and respond to 
 
 ## 🚀 Future Goals
 
-- Specializing as an **IoT Security Consultant**
-- Continuing to develop skills in **Operational Technologies** and **Cloud Security**
+- Specializing as an **GRC Security Consultant**
+- Continuing to develop skills in **Operational Technologies** and **Governance**
 - Contributing to the open-source security community and participating in more **Capture the Flag (CTF)** events.
+
+---
+
+## 🏆 Volunteering Activity
+- 4 x NSW Variety Bash
+- Red Frogs team leader
+- Youth leader Rockingham Church of Christ
+- 2009 Youth leader Nowra Church of Christ
+- 2009 Assistant leader Nepal mission trip 
+- Beach Mission Quartermaster
+- CSIRO STEM partnership 
 
 ---
 
@@ -218,9 +231,7 @@ This project focuses on deploying a **SIEM** solution to monitor and respond to 
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/daniel-o-rourke-160b53ba/)
 - **GitHub:** [Git Hub](https://github.com/sailingtheoutback/Portfolio)
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
 
 ---
 
 Thank you for visiting my portfolio! Feel free to explore my repositories and reach out to discuss cyber security topics or collaboration opportunities.
-
