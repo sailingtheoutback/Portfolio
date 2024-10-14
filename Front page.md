@@ -217,13 +217,13 @@ This project focuses on deploying a **SIEM** solution to monitor and respond to 
 ---
 
 ## 🏆 Volunteering Activity
-4 x NSW Variety Bash
-Red Frogs team leader
-Youth leader Rockingham Church of Christ
-2009 Youth leader Nowra Church of Christ
-2009 Assistant leader Nepal mission trip 
-Beach Mission Quartermaster
-CSIRO STEM partnership 
+- 4 x NSW Variety Bash
+- Red Frogs team leader
+- Youth leader Rockingham Church of Christ
+- 2009 Youth leader Nowra Church of Christ
+- 2009 Assistant leader Nepal mission trip 
+- Beach Mission Quartermaster
+- CSIRO STEM partnership 
 
 ---
 
@@ -231,7 +231,6 @@ CSIRO STEM partnership
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/daniel-o-rourke-160b53ba/)
 - **GitHub:** [Git Hub](https://github.com/sailingtheoutback/Portfolio)
--
 
 ---
 
